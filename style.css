@@ -1,0 +1,12 @@
+body {
+    min-height: 200px;
+  }
+  .jumbotron {
+    padding-top: 2rem;
+    background-color: #e2edff;
+    background-image:url(dinda.jpg) ;
+    height: 600px;
+  }
+  #projects {
+    background-color: #e2edff;
+  }
